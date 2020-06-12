@@ -1,0 +1,3070 @@
+------ Runde 890 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 891 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 892 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 893 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 894 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 895 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 896 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 897 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 898 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 899 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 900 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 901 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 902 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 903 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 904 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 905 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 906 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 907 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 908 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 909 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 910 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 911 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 912 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 913 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 914 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 915 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 916 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 917 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 918 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 919 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 920 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 921 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 922 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 923 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 924 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 925 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 926 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 927 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 928 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 929 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 930 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 931 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 932 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 933 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 934 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 935 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 936 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 937 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 938 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 939 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 940 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 941 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 942 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 943 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 944 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 945 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 946 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 947 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 948 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 949 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 950 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 951 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 952 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 953 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 954 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 955 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 956 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 957 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 958 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 959 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 960 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 961 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 962 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 963 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 964 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 965 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 966 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 967 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 968 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 969 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 970 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 971 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 972 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 973 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 974 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 975 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 976 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 977 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 978 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 979 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 980 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 981 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 982 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 983 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 984 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 985 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 986 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 987 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 988 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 989 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 990 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 991 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 992 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 993 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 994 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 995 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 996 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 997 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 998 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 999 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1000 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1001 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1002 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1003 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1004 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1005 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1006 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1007 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1008 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1009 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1010 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1011 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1012 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1013 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1014 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1015 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1016 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1017 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1018 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1019 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1020 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1021 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1022 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1023 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1024 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1025 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1026 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1027 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1028 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1029 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1030 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1031 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1032 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1033 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1034 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1035 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1036 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1037 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1038 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1039 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1040 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1041 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1042 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1043 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1044 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1045 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1046 ------
+Der Jaeger hat den Wolf erschossen!
+Der Wolf hat das Rotkaeppchen gefressen!
+    Runde beendet
+------ Runde 1047 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1048 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1049 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1050 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1051 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1052 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1053 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1054 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1055 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1056 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1057 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1058 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1059 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1060 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1061 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1062 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1063 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1064 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1065 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1066 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1067 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1068 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1069 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1070 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1071 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1072 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1073 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1074 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1075 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1076 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1077 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1078 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1079 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1080 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1081 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1082 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1083 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1084 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1085 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1086 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1087 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1088 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1089 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1090 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1091 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1092 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1093 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1094 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1095 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1096 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1097 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1098 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1099 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1100 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1101 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1102 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1103 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1104 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1105 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1106 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1107 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1108 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1109 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1110 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1111 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1112 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1113 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1114 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1115 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1116 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1117 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1118 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1119 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1120 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1121 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1122 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1123 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1124 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1125 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1126 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1127 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1128 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1129 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1130 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1131 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1132 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1133 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1134 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1135 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1136 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1137 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1138 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1139 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1140 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1141 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1142 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1143 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1144 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1145 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1146 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1147 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1148 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1149 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1150 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1151 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1152 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1153 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1154 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1155 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1156 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1157 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1158 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1159 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1160 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1161 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1162 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1163 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1164 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1165 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1166 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1167 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1168 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1169 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1170 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1171 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1172 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1173 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1174 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1175 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1176 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1177 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1178 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1179 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1180 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1181 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1182 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1183 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1184 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1185 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1186 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1187 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1188 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1189 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1190 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1191 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1192 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1193 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1194 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1195 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1196 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1197 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1198 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1199 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1200 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1201 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1202 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1203 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1204 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1205 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1206 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1207 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1208 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1209 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1210 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1211 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1212 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1213 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1214 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1215 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1216 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1217 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1218 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1219 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1220 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1221 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1222 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1223 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1224 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1225 ------
+Der Jaeger hat den Wolf erschossen!
+Der Wolf hat das Rotkaeppchen gefressen!
+    Runde beendet
+------ Runde 1226 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1227 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1228 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1229 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1230 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1231 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1232 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1233 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1234 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1235 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1236 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1237 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1238 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1239 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1240 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1241 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1242 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1243 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1244 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1245 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1246 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1247 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1248 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1249 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1250 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1251 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1252 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1253 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1254 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1255 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1256 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1257 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1258 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1259 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1260 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1261 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1262 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1263 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1264 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1265 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1266 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1267 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1268 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1269 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1270 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1271 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1272 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1273 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1274 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1275 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1276 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1277 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1278 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1279 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1280 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1281 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1282 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1283 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1284 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1285 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1286 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1287 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1288 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1289 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1290 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1291 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1292 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1293 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1294 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1295 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1296 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1297 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1298 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1299 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1300 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1301 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1302 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1303 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1304 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1305 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1306 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1307 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1308 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1309 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1310 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1311 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1312 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1313 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1314 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1315 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1316 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1317 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1318 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1319 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1320 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1321 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1322 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1323 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1324 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1325 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1326 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1327 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1328 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1329 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1330 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1331 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1332 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1333 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1334 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1335 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1336 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1337 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1338 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1339 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1340 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1341 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1342 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1343 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1344 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1345 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1346 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1347 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1348 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1349 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1350 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1351 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1352 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1353 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1354 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1355 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1356 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1357 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1358 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1359 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1360 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1361 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1362 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1363 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1364 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1365 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1366 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1367 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1368 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1369 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1370 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1371 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1372 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1373 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1374 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1375 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1376 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1377 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1378 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1379 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1380 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1381 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1382 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1383 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1384 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1385 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1386 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1387 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1388 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1389 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1390 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1391 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1392 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1393 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1394 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1395 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1396 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1397 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1398 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1399 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1400 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1401 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1402 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1403 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1404 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1405 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1406 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1407 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1408 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1409 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1410 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1411 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1412 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1413 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1414 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1415 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1416 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1417 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1418 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1419 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1420 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1421 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1422 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1423 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1424 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1425 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1426 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1427 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1428 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1429 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1430 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1431 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1432 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1433 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1434 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1435 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1436 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1437 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1438 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1439 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1440 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1441 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1442 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1443 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1444 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1445 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1446 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1447 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1448 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1449 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1450 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1451 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1452 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1453 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1454 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1455 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1456 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1457 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1458 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1459 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1460 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1461 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1462 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1463 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1464 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1465 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1466 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1467 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1468 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1469 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1470 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1471 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1472 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1473 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1474 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1475 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1476 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1477 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1478 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1479 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1480 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1481 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1482 ------
+Der Jaeger hat den Wolf erschossen!
+Der Wolf hat das Rotkaeppchen gefressen!
+    Runde beendet
+------ Runde 1483 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1484 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1485 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1486 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1487 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1488 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1489 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1490 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1491 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1492 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1493 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1494 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1495 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1496 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1497 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1498 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1499 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1500 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1501 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1502 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1503 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1504 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1505 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1506 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1507 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1508 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1509 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1510 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1511 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1512 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1513 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1514 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1515 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1516 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1517 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1518 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1519 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1520 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1521 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1522 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1523 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1524 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1525 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1526 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1527 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1528 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1529 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1530 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1531 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1532 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1533 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1534 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1535 ------
+Der Jaeger hat den Wolf erschossen!
+Der Wolf hat das Rotkaeppchen gefressen!
+    Runde beendet
+------ Runde 1536 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1537 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1538 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1539 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1540 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1541 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1542 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1543 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1544 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1545 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1546 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1547 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1548 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1549 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1550 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1551 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1552 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1553 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1554 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1555 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1556 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1557 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1558 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1559 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1560 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1561 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1562 ------
+Der Jaeger hat den Wolf erschossen!
+Der Wolf hat das Rotkaeppchen gefressen!
+    Runde beendet
+------ Runde 1563 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1564 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1565 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1566 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1567 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1568 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1569 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1570 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1571 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1572 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1573 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1574 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1575 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1576 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1577 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1578 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1579 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1580 ------
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1581 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1582 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1583 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1584 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1585 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1586 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1587 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1588 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1589 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1590 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1591 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1592 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1593 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1594 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1595 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1596 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1597 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1598 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1599 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1600 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1601 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1602 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1603 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1604 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1605 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1606 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1607 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1608 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1609 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1610 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1611 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1612 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1613 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1614 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1615 ------
+Der Jaeger hat den Wolf erschossen!
+Der Wolf hat das Rotkaeppchen gefressen!
+    Runde beendet
+------ Runde 1616 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1617 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1618 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1619 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1620 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1621 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1622 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1623 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1624 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1625 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1626 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1627 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1628 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1629 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1630 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1631 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1632 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1633 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1634 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1635 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1636 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1637 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1638 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1639 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1640 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1641 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1642 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1643 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1644 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1645 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1646 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1647 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1648 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1649 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1650 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1651 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1652 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1653 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1654 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1655 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1656 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1657 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1658 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1659 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1660 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1661 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1662 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1663 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1664 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1665 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1666 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1667 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1668 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1669 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1670 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1671 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1672 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1673 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1674 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1675 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1676 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1677 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1678 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1679 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1680 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1681 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1682 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1683 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1684 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1685 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1686 ------
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1687 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1688 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1689 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1690 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1691 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1692 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1693 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1694 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Wolf hat die Oma gefressen!
+    Runde beendet
+------ Runde 1695 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1696 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!
+    Runde beendet
+------ Runde 1697 ------
+Der Wolf hat das Rotkaeppchen gefressen!
+Der Jaeger hat den Wolf erschossen!
+    Runde beendet
+------ Runde 1698 ------
+Der Jaeger hat den Wolf erschossen!
+Das Rotkaeppchen hat das Haus erreicht!

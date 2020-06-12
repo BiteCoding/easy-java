@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: /home/simon/Dokumente/JavaCode/_Library_/basisUTF8151112.jar
+Main-Class: github.stringBoy.Logic

@@ -1,0 +1,8 @@
+Gesamte Aktionen: 2
+Der Wolf hat das Rotkäppchen 0-mal gefressen. (0%)
+Der Wolf hat die Oma 0-mal gefressen. (0%)
+Der Jäger hat den Wolf 1-mal erschossen. (50%)
+Das Rotkäppchen hat das Haus der Oma 1-mal erreicht. (50%)
+Not matched: 2 / Gesamt: 4 (50%)
+Runden: 1
+Male durchgelaufen: 1.0

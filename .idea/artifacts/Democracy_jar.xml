@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Democracy:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Democracy_jar</output-path>
+    <root id="archive" name="Democracy.jar">
+      <element id="module-output" name="Democracy" />
+      <element id="module-output" name="TOOLS" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/basisSwing130203UTF8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

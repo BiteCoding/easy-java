@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="TOOLS" exported="" />
+    <orderEntry type="library" name="basisSwing130203UTF8" level="project" />
   </component>
 </module>

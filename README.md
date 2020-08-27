@@ -5,3 +5,9 @@ The library handles most of the gui. You need this library if you want to run on
 
 The library is implemented in this repository.
 Add it to your dependencies and enjoy my little brainchilds :)
+
+|:-----------:|:-----------:|:-----------:|
+| Democracy | Simulates influencing discussions between townmembers <br> Inspiration taken from school project | Done |
+| FindTheHole | Direct a snake into a hole without seeing it | Done |
+| Paint | A little primitive Paint clone | Done |
+| RaketeGame | Turn off the rocket engine to end up at the desired height <br> _got destroyed by porting from windows to linux_ <br> _need to fix_ | Repair | 

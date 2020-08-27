@@ -15,3 +15,4 @@ Add it to your dependencies and enjoy my little brainchilds :)
 | RollTheDice | Simulate rolling a dice a finite amount of times with different amounts of dices <br> plotting the results | Done |
 | Rotkeappchengame | Little Simulation that got inspired by the fairytail "Little Red Riding Hood" | Done |
 | SpaceFighter | My first big project ever <br> You have to shoot meteroites with your spaceship to uncover collectable stars <br> Every 3rd star triggers a decision. You ask what decision? Find out yourself! <br> Don't look at the code it's horrible| Done |
+| TicTacToe | Basic TicTacToe game made | Done |

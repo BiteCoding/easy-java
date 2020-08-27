@@ -12,4 +12,5 @@ Add it to your dependencies and enjoy my little brainchilds :)
 | FindTheHole | Direct a snake into a hole without seeing it | Done |
 | Paint | A little primitive Paint clone | Done |
 | RaketeGame | Turn off the rocket engine to end up at the desired height <br> _got destroyed by porting from windows to linux_| Repair |
-| RollTheDice | Simulate rolling a dice a finite amount of time with different amounts of dices <br> plotting the results | Done |
+| RollTheDice | Simulate rolling a dice a finite amount of times with different amounts of dices <br> plotting the results | Done |
+| Rotkeappchengame | Little Simulation that got inspired by the fairytail "Little Red Riding Hood" | Done |

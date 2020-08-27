@@ -6,6 +6,7 @@ The library handles most of the gui. You need this library if you want to run on
 The library is implemented in this repository.
 Add it to your dependencies and enjoy my little brainchilds :)
 
+| Name | Description | Status |
 |:--------------:|:--------------:|:-------------:|
 | Democracy | Simulates influencing discussions between townmembers <br> Inspiration taken from school project | Done |
 | FindTheHole | Direct a snake into a hole without seeing it | Done |

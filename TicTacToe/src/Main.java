@@ -79,15 +79,6 @@ class Main {
         return value;
     }
 
-    private void minimax(String[][] oldGrid){
-        String [][] newGrid = oldGrid.clone();
-        for (int i = 0; i < 6; i++){
-            for (int j= 0; j < freeTiles(); j++){
-                System.out.println(i + " , " + j);
-            }
-        }
-    }
-
     private void place(){
         //row
         for (int i = 0; i < 3; i++){
